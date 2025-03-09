@@ -2,8 +2,9 @@ package BasicPart1;
 
 import java.util.Scanner;
 
-public class SumOfTwoNumbers_2 {
+public class sumOfTwoNumbers_2 {
     public static void main(String[] args) {
+        Scanner input = new Scanner(System.in);
         System.out.println("""
             ============================================
             Program for summing to numbers
@@ -15,7 +16,6 @@ public class SumOfTwoNumbers_2 {
             Result: 15
             ============================================
         """);
-        Scanner input = new Scanner(System.in);
         try {
             System.out.print("Enter first number: ");
             int FirstNum = input.nextInt();
