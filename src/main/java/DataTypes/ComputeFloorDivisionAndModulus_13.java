@@ -11,7 +11,7 @@ public class ComputeFloorDivisionAndModulus_13 {
             ============================================
             Example:
             Floor division using '/' operator: -18
-            Floor division using floorDiv() method is: -19 
+            Floor division using floorDiv() method is: -19
             Floor modulus using '%' operator: -115
             Floor modulus using floorMod() method is: 10
             ============================================
