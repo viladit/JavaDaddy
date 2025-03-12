@@ -7,7 +7,7 @@ public class SumOfOddNaturalNumbers_15 {
         Scanner input = new Scanner(System.in);
         System.out.println("""
             ============================================
-            Program to reverse an integer number.
+            Program that displays the sum of n odd natural numbers.
             ============================================
             Example:
             Input number of terms is: 5

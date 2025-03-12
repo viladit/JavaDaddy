@@ -7,7 +7,7 @@ public class CompareFloatsUpToThreeDecimals_6 {
         Scanner input = new Scanner(System.in);
         System.out.println("""
             ============================================
-            Program to reverse an integer number.
+            Program hat reads two floating-point numbers and tests whether they are the same up to three decimal places.
             ============================================
             Example:
             Input floating-point number:  25.586
