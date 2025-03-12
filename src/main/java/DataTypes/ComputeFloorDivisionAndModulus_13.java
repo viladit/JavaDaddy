@@ -2,7 +2,7 @@ package DataTypes;
 
 import java.util.Scanner;
 
-public class computeFloorDivisionAndModulus_13 {
+public class ComputeFloorDivisionAndModulus_13 {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         System.out.println("""

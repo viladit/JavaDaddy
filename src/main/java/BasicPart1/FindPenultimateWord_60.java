@@ -2,7 +2,7 @@ package BasicPart1;
 
 import java.util.Scanner;
 
-public class findPenultimateWord_60 {
+public class FindPenultimateWord_60 {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         System.out.println("""

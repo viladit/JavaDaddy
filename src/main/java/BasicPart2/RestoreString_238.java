@@ -2,7 +2,7 @@ package BasicPart2;
 
 import java.util.Scanner;
 
-public class restoreString_238 {
+public class RestoreString_238 {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         System.out.println("""

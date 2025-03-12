@@ -2,7 +2,7 @@ package JavaMath;
 
 import java.util.Scanner;
 
-public class longestBinaryZeroSequence_13 {
+public class LongestBinaryZeroSequence_13 {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         System.out.println("""

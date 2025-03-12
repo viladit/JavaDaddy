@@ -2,7 +2,7 @@ package BasicPart1;
 
 import java.util.Scanner;
 
-public class staircaseCoins_109 {
+public class StaircaseCoins_109 {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         System.out.println("""

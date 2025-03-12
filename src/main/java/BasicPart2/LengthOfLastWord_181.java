@@ -2,7 +2,7 @@ package BasicPart2;
 
 import java.util.Scanner;
 
-public class lengthOfLastWord_181 {
+public class LengthOfLastWord_181 {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         System.out.println("""

@@ -2,7 +2,7 @@ package DataTypes;
 
 import java.util.Scanner;
 
-public class fahrenheitToCelsiusDegree_1 {
+public class FahrenheitToCelsiusDegree_1 {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         System.out.println("""

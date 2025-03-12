@@ -2,7 +2,7 @@ package DataTypes;
 
 import java.util.Scanner;
 
-public class inchesToMeters_2 {
+public class InchesToMeters_2 {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         System.out.println("""

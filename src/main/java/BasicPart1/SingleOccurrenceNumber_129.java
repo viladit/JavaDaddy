@@ -1,6 +1,6 @@
 package BasicPart1;
 
-public class singleOccurrenceNumber_129 {
+public class SingleOccurrenceNumber_129 {
     public static void main(String[] args) {
         System.out.println("""
             ============================================

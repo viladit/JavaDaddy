@@ -2,7 +2,7 @@ package BasicPart1;
 
 import java.util.Scanner;
 
-public class sumOfTwoNumbers_2 {
+public class SumOfTwoNumbers_2 {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         System.out.println("""

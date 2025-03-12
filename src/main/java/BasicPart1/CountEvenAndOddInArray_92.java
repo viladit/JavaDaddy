@@ -1,6 +1,6 @@
 package BasicPart1;
 
-public class countEvenAndOddInArray_92 {
+public class CountEvenAndOddInArray_92 {
     public static void main(String[] args) {
         System.out.println("""
             ============================================
